@@ -23,6 +23,14 @@
       <excludeFolder url="file://$MODULE_DIR$/vendor/danharrin/livewire-rate-limiting" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/danharrin/date-format-converter" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/akaunting/laravel-money" />
+      <excludeFolder url="file://$MODULE_DIR$/.idea/dataSources" />
+      <excludeFolder url="file://$MODULE_DIR$/storage/app/livewire-tmp" />
+      <excludeFolder url="file://$MODULE_DIR$/storage/framework/cache/data/9c" />
+      <excludeFolder url="file://$MODULE_DIR$/storage/framework/cache/data/76" />
+      <excludeFolder url="file://$MODULE_DIR$/storage/framework/cache/data/c0" />
+      <excludeFolder url="file://$MODULE_DIR$/storage/framework/cache/data/ef" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/ramsey/collection/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/symfony/string/Resources/bin" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
